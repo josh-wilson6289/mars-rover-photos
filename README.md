@@ -1,5 +1,5 @@
 # Mars-Vacation-Homes
-Our first  project must use 2 server side API's as well as 1 new third party API. It also must be interactive and use CSS framework, it also cannot use alerts or prompts. 
+Our first  project must use 2 server side API's as well as 1 new third party API. It also must be interactive,u se CSS framework, and cannot use alerts or prompts. 
 
 ## Collaborators
 Josh Wilson 
@@ -42,7 +42,7 @@ Both API's that were used in this project went down for a period of time. This c
 ```
 ## Instructions for future development
 ```
-To add to this repository in the  future, please know 2 approvals are required for a git merge into the master. In your comeents please include a brief description as to how this addition will improve the  application. 
+Some things to update in the future could include, more camera choices, the NASA video API, future travel options, and a mailing list for updates. 
 ```
 ## Review
 * The URL of the deployed application.
