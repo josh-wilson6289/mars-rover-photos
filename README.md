@@ -48,4 +48,6 @@ To add to this repository in the  future, please know 2 approvals are required f
 * The URL of the deployed application.
 https://josh-wilson6289.github.io/mars-vacation-homes/
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-https://github.com/josh-wilson6289/mars-vacation-homes                                          
+https://github.com/josh-wilson6289/mars-vacation-homes   
+Presentation Link :
+https://docs.google.com/presentation/d/1RUxja08jllcOeoMp-mqTLAcIT_o33ePP-1yaN7RdDx4/edit?usp=sharing
